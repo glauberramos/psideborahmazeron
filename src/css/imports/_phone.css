@@ -1,0 +1,10 @@
+.top-bar-link-phone {
+  background-color: #e6f9f6;
+  border-radius: 6px;
+  color: rgba(0, 0, 0, 0.7);
+  display: inline-block;
+  font-size: 0.9rem;
+  font-weight: 400;
+  padding: 3px 5px 3px 10px;
+  vertical-align: middle;
+}

@@ -1,9 +1,10 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
+  {{ partial "header-links" }}
   {{ partial "head" . }}
   <body class="sans-serif">
     {{ partial "nav" . }}
-    {{ block "main" . }}{{ end }} 
-    {{ partial "footer" . }} 
+    {{ block "main" . }}{{ end }}
+    {{ partial "footer" . }}
   </body>
 </html>
