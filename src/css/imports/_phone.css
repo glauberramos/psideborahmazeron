@@ -7,4 +7,40 @@
   font-weight: 400;
   padding: 3px 5px 3px 10px;
   vertical-align: middle;
+  font-size: 18px;
+}
+
+.top-bar-link-phone svg {
+  width: 22px;
+  position: relative;
+  top: 4px;
+  margin-right: 3px;
+}
+
+.top-bar-links-box-container {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+  font-size: 18px;
+}
+
+.top-bar-links-box-w {
+  display: flex;
+  justify-content: space-between;
+}
+
+.top-bar-links-box ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.top-bar-links-box li {
+  margin-right: 20px;
+}
+
+.bar-social {
+  display: flex;
+}
+
+.top-bar-social-label {
+  padding: 5px;
 }
