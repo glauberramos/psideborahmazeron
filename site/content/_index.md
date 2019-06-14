@@ -3,10 +3,10 @@ title: "Atendimento psicológico online"
 subtitle: Experiência na área clínica e comunitária
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Meu objetivo
   text: "Meu objetivo enquanto profissional da psicologia é auxiliar o indivíduo em seu processo de compreensão de si mesmo e o que está ao seu redor, buscando por equilíbrio e força interior, para que assim, esse caminho aconteça da melhor forma possível, promovendo bem estar emocional e mental."
 intro:
-  heading: "What we offer"
+  heading: "Atendimento online"
   text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
 products:
   - image: img/illustrations-coffee.svg
