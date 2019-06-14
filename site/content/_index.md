@@ -1,5 +1,5 @@
 ---
-title: "Atendimento ao publico adulto"
+title: "Atendimento psicológico online"
 subtitle: Experiência na área clínica e comunitária
 image: /img/home-jumbotron.jpg
 blurb:
