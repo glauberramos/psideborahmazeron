@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Selima';
+  src: url('../fonts/Selima.woff2') format('woff2'),
+      url('../fonts/Selima.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+

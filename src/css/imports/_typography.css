@@ -147,3 +147,8 @@ sup {
     text-overflow: ellipsis;
   }
 }
+
+.script-font {
+  font-family: 'Selima';
+  font-size: 45px;
+}
