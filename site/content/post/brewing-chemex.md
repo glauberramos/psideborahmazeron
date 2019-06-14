@@ -23,7 +23,7 @@ O QUE DEU FORÇAS para Jeff foi sua jornada não apenas para se reabilitar, mas 
 
 Casos como o dele nos sensibilizam e desacomodam, especialmente se formos nos atentar para o fato de que ninguém está imune da hipótese de enfrentar uma adversidade parecida ao longo da vida.
 
-Outras dicas de filmes brilhantes baseados em histórias reais: ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Outras dicas de filmes brilhantes baseados em histórias reais:
 
 * Dorina: Olhar para o mundo (documentário brasileiro)
 * O Escafandro e a Borboleta
