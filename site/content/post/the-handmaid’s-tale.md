@@ -14,13 +14,13 @@ Agora, são todas meras propriedades, algumas com mais e outras com menos direit
 
 Nesse sistema de castas, identidades e individualidades são inexistentes. O “eu” é apagado. 
 
-Porém, o seu passado é determinante para o novo papel assumido, e através de um processo de manipulação, se conformar e inclusive sentir-se honrada, no caso das aias, que são as designadas a conceber os futuros responsáveis pela continuidade de um suposto futuro promissor, e claro, patriarcal. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Porém, o seu passado é determinante para o novo papel assumido, e através de um processo de manipulação, se conformar e inclusive sentir-se honrada, no caso das aias, que são as designadas a conceber os futuros responsáveis pela continuidade de um suposto futuro promissor, e claro, patriarcal. 
 
 > Melhor? digo, em voz baixa, apagada, Como ele pode pensar que isto é melhor?
 >
-> Melhor nunca significa melhor para todo mundo, diz ele. Sempre significa pior, para alguns.⠀⠀⠀⠀⠀⠀⠀⠀⠀
+> Melhor nunca significa melhor para todo mundo, diz ele. Sempre significa pior, para alguns.
 
-Desobediência não é tolerada e punições brutais seguindo princípios bíblicos são comumente públicas, com o claro intuito de propagar o medo e insegurança a possíveis futuros rebeldes.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Desobediência não é tolerada e punições brutais seguindo princípios bíblicos são comumente públicas, com o claro intuito de propagar o medo e insegurança a possíveis futuros rebeldes.
 
 Acompanhar toda essa angústia e violência diárias em meio a todo esse retrocesso extremista causa diversas sensações. Desconforta, perturba, aterroriza. 
 
