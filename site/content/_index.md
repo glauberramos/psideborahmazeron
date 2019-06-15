@@ -1,6 +1,6 @@
 ---
 title: Atendimento psicológico online
-subtitle: Experiência na área clínica e comunitária
+subtitle: Equilíbrio e força interior para atingir o bem estar emocional e mental
 image: /img/andressa-voltolini-202193-unsplash.jpg
 blurb:
   heading: Meu objetivo
