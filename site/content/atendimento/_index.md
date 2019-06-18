@@ -1,7 +1,7 @@
 ---
 title: Atendimento Online
 type: atendimento
-image: /img/products-jumbotron.jpg
+image: /img/brooke-cagle-195777-unsplash.jpg
 heading: Atendimento online
 description: >-
   A orientação psicológica  online é uma modalidade certificada pelo Conselho Federal de Psicologia, no qual o atendimento é mediado via meios tecnológicos de longa distância (Skype, Google Hangout, entre outros), sob os mesmos critérios éticos de sigilo e privacidade dos realizados em um consultório, permitindo então de forma segura e profissional a conexão entre um psicólogo e seu paciente.
