@@ -1,7 +1,6 @@
 ---
 title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
+image: /img/brooke-cagle-195777-unsplash.jpg
 heading: Atendimento online
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -98,5 +97,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
