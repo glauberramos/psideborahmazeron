@@ -12,30 +12,20 @@ blurb:
 intro:
   heading: Atendimento online
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    A orientação psicológica  online é uma modalidade certificada pelo Conselho Federal de Psicologia, no qual o atendimento é mediado via meios tecnológicos de longa distância (Skype, Google Hangout, entre outros), sob os mesmos critérios éticos de sigilo e privacidade dos realizados em um consultório, permitindo então de forma segura e profissional a conexão entre um psicólogo e seu paciente.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+      Através de agendamento e pagamento prévios, é possível iniciar as sessões, bem como o cuidado em utilizar um equipamento (computador, tablet, etc) preferencialvelmente próprio e em um local onde se sinta confortável.
   - image: /img/illustrations-coffee-gear.svg
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      A orientação psicológica online é bastante indicada em casos de pessoas que possuam pouca disponibilidade de horários ou estejam vivendo fora do país, além de possibilitar economia de tempo, dinheiro e logística, obtendo ao mesmo tempo qualidade e eficiência de uma psicoterapia clínica.
 values:
   heading: Sobre
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Psicóloga com experiência com o público infantojuvenil e adulto. Meu objetivo enquanto profissional da psicologia é auxiliar o indivíduo em
+    seu processo de compreensão de si mesmo e o que está ao seu redor, buscando
+    por equilíbrio e força interior, para que assim, esse caminho aconteça da
+    melhor forma possível, promovendo bem estar emocional e mental.
 ---
 
