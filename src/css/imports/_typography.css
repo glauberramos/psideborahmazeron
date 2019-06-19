@@ -150,5 +150,10 @@ sup {
 
 .script-font {
   font-family: 'Selima';
-  font-size: 35px;
+  font-size: 45px;
+  line-height: 40px;
+}
+
+.small {
+  font-size: var(--font-size);
 }

@@ -23,6 +23,10 @@
   font-size: 18px;
 }
 
+.top-bar-link-phone a {
+  text-decoration: none;
+}
+
 .top-bar-links-box-w {
   display: flex;
   justify-content: space-between;
