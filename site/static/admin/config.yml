@@ -40,9 +40,9 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Values", name: "values", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
-      - file: "site/content/contact/_index.md"
-        label: "Contact Page"
-        name: "contact"
+      - file: "site/content/contato/_index.md"
+        label: "Contato Page"
+        name: "contato"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Logo, name: logo, widget: image}
@@ -57,9 +57,9 @@ collections: # A list of collections the CMS should be able to edit
               - label: Text
                 name: text
                 widget: text
-      - file: "site/content/products/_index.md"
-        label: "Products Page"
-        name: "products"
+      - file: "site/content/atendimento/_index.md"
+        label: "Atendimento Page"
+        name: "atendimento"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
@@ -70,9 +70,9 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
           - {label: Full_image, name: full_image, widget: image}
           - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
-      - file: "site/content/values/_index.md"
-        label: "Values Page"
-        name: "values"
+      - file: "site/content/sobre/_index.md"
+        label: "Sobre Page"
+        name: "sobre"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
