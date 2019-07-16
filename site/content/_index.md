@@ -1,7 +1,7 @@
 ---
 title: Atendimento psicológico online
 subtitle: Equilíbrio e força interior para atingir o bem estar emocional e mental
-image: /img/img_2941.jpg
+image: /img/img_29412.jpg
 blurb:
   heading: Meu objetivo
   text: >-
