@@ -149,8 +149,9 @@ sup {
 }
 
 .script-font {
-  font-family: 'Selima';
-  font-size: 45px;
+  font-weight: bold;
+  font-family: "Caviar Dreams";
+  font-size: 30px;
   line-height: 40px;
 }
 

@@ -49,3 +49,13 @@
 .top-bar-social-label {
   padding: 5px;
 }
+
+.logo-image {
+  position: relative;
+  bottom: 14px;
+}
+
+.logo-typo {
+  position: relative;
+  right: 25px;
+}

@@ -2,10 +2,10 @@
 title: "Contato"
 logo: "/img/logo.png"
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Endereço
+    text: "Avenida Oswaldo Aranha 440, sala 1002, Bom Fim, Porto Alegre - RS"
+  - heading: Horário de trabalho
+    text: "Segunda – Sexta: 9:00 – 18:00 Sábado: 9:00 – 14:00"
 ---
 
 We’d love to get in touch with you and hear your ideas and
