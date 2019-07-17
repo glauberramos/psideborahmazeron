@@ -19,5 +19,5 @@ intro:
 main:
   heading: Marque sua primeira consulta grátis!
   description: >
-    Para marcar seu primeiro atendimento online você pode me enviar uma mensagem no [whatsapp +55 51 99345-6226](https://wa.me/5551993456226?text=Olá! Eu gostaria de mais informações sobre o atendimento online 😀) ou marcar diretamente pela plataforma do [Zenklub](https://zenklub.com.br/psicologos/deborah-mazeron).
+    Para marcar seu primeiro atendimento online você pode me enviar uma mensagem no whatsapp ou marcar diretamente pela plataforma do Zenklub. Links estão no cabeçario ou rodapé do site.
 ---
