@@ -11,13 +11,13 @@ description: >-
   seu paciente.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/appointment.png
       text: >
         Através de agendamento e pagamento prévios, é possível iniciar as
         sessões, bem como o cuidado em utilizar um equipamento (computador,
         tablet, etc) preferencialvelmente próprio e em um local onde se sinta
         confortável.
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/monitor.png
       text: >
         A orientação psicológica online é bastante indicada em casos de pessoas
         que possuam pouca disponibilidade de horários ou estejam vivendo fora do
