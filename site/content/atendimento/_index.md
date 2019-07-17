@@ -37,6 +37,6 @@ main:
   description: >
     Para marcar seu primeiro atendimento online você pode me enviar uma mensagem
     no whatsapp ou marcar diretamente pela plataforma do Zenklub. Links estão no
-    cabeçario ou rodapé do site.
+    cabeçario e rodapé do site.
 ---
 
