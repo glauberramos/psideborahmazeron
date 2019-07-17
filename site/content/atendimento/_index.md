@@ -36,7 +36,7 @@ main:
   heading: Marque sua primeira consulta grátis!
   description: >
     Para marcar seu primeiro atendimento online você pode me enviar uma mensagem
-    no whatsapp ou marcar diretamente pela plataforma do Zenklub. Links estão no
+    no whatsApp ou marcar diretamente pela plataforma do Zenklub. Links estão no
     cabeçario e rodapé do site.
 ---
 

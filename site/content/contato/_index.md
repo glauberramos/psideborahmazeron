@@ -8,4 +8,4 @@ contact_entries:
     text: "Segunda – Sexta: 9:00 – 18:00 Sábado: 9:00 – 14:00"
 ---
 
-Para marcar seu primeiro atendimento online você pode me enviar uma mensagem no [Whatsapp (+55 51 99345-6226)](https://wa.me/5551993456226?text=Olá! Eu gostaria de mais informações sobre o atendimento online 😀) ou marcar diretamente pela plataforma do [Zenklub](https://zenklub.com.br/psicologos/deborah-mazeron/).
+Para marcar seu primeiro atendimento online você pode me enviar uma mensagem no [WhatsApp (+55 51 99345-6226)](https://wa.me/5551993456226?text=Olá! Eu gostaria de mais informações sobre o atendimento online 😀) ou marcar diretamente pela plataforma do [Zenklub](https://zenklub.com.br/psicologos/deborah-mazeron/).

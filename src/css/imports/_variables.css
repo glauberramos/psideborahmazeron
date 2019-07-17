@@ -8,7 +8,8 @@
   --grey-2: rgba(235, 231, 230, 1);
   --grey-3: rgba(89, 87, 86, 1);
   --grey-4: rgba(66, 64, 64, 1);
-  --black: rgba(43, 37, 35, 1);
+  --black: rgb(35, 43, 37);
+  --success: #2cbc63;
 
   /* Typography */
   --font-family: Tahoma, -apple-system, BlinkMacSystemFont, "avenir next",
