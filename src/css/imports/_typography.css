@@ -161,6 +161,21 @@ sup {
   line-height: 40px;
 }
 
+@media (max-width: 50em) {
+  .script-font {
+    font-size: 20px;
+    line-height: 25px;
+  }
+}
+
 .small {
   font-size: var(--font-size);
+}
+
+
+
+@media (max-width: 50em) {
+  .small  {
+    font-size: 14px;
+  }
 }

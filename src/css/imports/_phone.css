@@ -10,6 +10,12 @@
   font-size: 18px;
 }
 
+@media (max-width: 50em) {
+  .top-bar-link-phone {
+    display: none;
+  }
+}
+
 .top-bar-link-phone svg {
   width: 22px;
   position: relative;
