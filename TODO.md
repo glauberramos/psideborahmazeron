@@ -10,6 +10,7 @@ Mudar fonte deborah (DONE)
 Testar outro fundo (DONE)
 
 Colocar analytics
+Add favicon
 Comprar dominio e configurar
 Colocar mais posts
 
