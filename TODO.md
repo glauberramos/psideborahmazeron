@@ -8,12 +8,12 @@ Atualizar texto sobre (DONE)
 Mudar foto sobre (DONE)
 Mudar fonte deborah (DONE)
 Testar outro fundo (DONE)
+Colocar analytics (DONE)
+Comprar dominio (DONE)
+Configurar DNS (DONE)
+Colocar mais posts (DONE)
 
-Colocar analytics
 Add favicon
-Comprar dominio e configurar
-Colocar mais posts
-
 Comprar PC
 Botar fundo na pagina do face
 
