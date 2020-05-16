@@ -1,5 +1,5 @@
 ---
-title: A terapia está funcionando quando você...
+title: A TERAPIA ESTÁ FUNCIONANDO QUANDO VOCÊ...
 date: 2020-03-10T18:48:00.000Z
 description: >
   A terapia não é um processo linear, e não há um processo singular para a
