@@ -19,6 +19,14 @@ body {
   background-color: var(--off-white);
 }
 
+.hero-section {
+  text-align: center;
+}
+
+.hero-section .subtitle {
+  background: none;
+}
+
 p {
   margin-bottom: var(--spacing-medium);
   max-width: 32rem;

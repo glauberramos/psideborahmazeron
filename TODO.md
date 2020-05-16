@@ -6,9 +6,9 @@ Mudar link facebook (DONE)
 Mudar endereço (DONE)
 Atualizar texto sobre (DONE)
 Mudar foto sobre (DONE)
+Mudar fonte deborah (DONE)
+Testar outro fundo (DONE)
 
-Testar outro fundo
-Mudar fonte deborah
 Colocar analytics
 Comprar dominio e configurar
 Colocar mais posts

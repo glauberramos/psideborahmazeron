@@ -1,7 +1,7 @@
 ---
-title: Atendimento psicológico online
-subtitle: Equilíbrio e força interior para atingir o bem estar emocional e mental
-image: /img/img_29412.jpg
+title: ATENDIMENTO PSICOLÓGICO ONLINE
+subtitle: Você em paz com seus sentimentos e pensamentos!
+image: /img/green-dust-and-scratches.png
 blurb:
   heading: Meu objetivo
   text: >-
