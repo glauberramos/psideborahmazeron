@@ -1,15 +1,10 @@
 ---
-title: RESISTIR É SOFRER
+title: Resistir é sofrer
 date: 2020-05-11T19:17:00.000Z
-description: >-
+description: >
   Eu não acredito na ideia de que sentimentos são fenômenos que podem ser
   simplesmente categorizados como bons ou ruins, isso me parece simplista
   demais.
-
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-  As coisas são o que são. Nada carrega valor em si mesmo, apenas verdade,
-  apenas aquilo que precisa ser INTEGRADO.
 image: /img/20200516_161636_0000.png
 ---
 Eu não acredito na ideia de que sentimentos são fenômenos que podem ser simplesmente categorizados como bons ou ruins, isso me parece simplista demais.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
