@@ -12,7 +12,7 @@ blurb:
 intro:
   heading: Atendimento online
   text: >-
-    A orientação psicológica  online é uma modalidade certificada pelo Conselho
+    A orientação psicológica online é uma modalidade certificada pelo Conselho
     Federal de Psicologia, no qual o atendimento é mediado via meios
     tecnológicos de longa distância (Skype, Google Hangout, entre outros), sob
     os mesmos critérios éticos de sigilo e privacidade dos realizados em um
