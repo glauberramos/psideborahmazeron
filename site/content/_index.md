@@ -33,10 +33,14 @@ products:
 values:
   heading: Sobre
   text: >-
-    Psicóloga com experiência com o público infantojuvenil e adulto. Meu
-    objetivo enquanto profissional da psicologia é auxiliar o indivíduo em seu
-    processo de compreensão de si mesmo e o que está ao seu redor, buscando por
-    equilíbrio e força interior, para que assim, esse caminho aconteça da melhor
-    forma possível, promovendo bem estar emocional e mental.
----
+    Psicóloga Clínica                     
 
+    - Abordagem Sistêmica
+    - Crianças, Adolescentes e Adultos
+
+    Terapia em movimento para desenvolvimento pessoal e autocuidado emocional!
+
+    + Autoconhecimento
+    + Autoconfiança
+    + Autoestima
+---
