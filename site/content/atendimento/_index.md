@@ -33,7 +33,7 @@ intro:
     consultório, permitindo então de forma segura e profissional a conexão entre
     um psicólogo e seu paciente.
 main:
-  heading: Marque sua primeira consulta grátis!
+  heading: Agende sua primeira consulta
   description: >
     Para marcar seu primeiro atendimento online você pode me enviar uma mensagem
     no whatsApp. Links estão no
