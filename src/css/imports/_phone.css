@@ -11,7 +11,7 @@
 }
 
 @media (max-width: 50em) {
-  .top-bar-link-phone {
+  .top-bar-links-box {
     display: none;
   }
 }
