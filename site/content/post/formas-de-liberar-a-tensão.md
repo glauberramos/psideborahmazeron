@@ -1,6 +1,6 @@
 ---
 title: Formas de liberar a tensão
-date: 2020-05-17T00:24:02.561Z
+date: 2020-04-06T00:24:00.000Z
 description: 'Em tempos de isolamento, é muito importante que nos ajustemos criativamente.'
 image: /img/img-20200516-wa0020.jpg
 ---
