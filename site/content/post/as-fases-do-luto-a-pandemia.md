@@ -1,5 +1,5 @@
 ---
-title: As fases do luto & a pandemia
+title: As fases do luto e a pandemia
 date: 2020-04-22T00:00:00.000Z
 description: >-
   David Kessler, especialista em morte e luto, há alguns dias falou em
