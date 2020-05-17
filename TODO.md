@@ -12,11 +12,8 @@ Colocar analytics (DONE)
 Comprar dominio (DONE)
 Configurar DNS (DONE)
 Colocar mais posts (DONE)
+Fazer ads no google pra testar (DONE)
 
 Add favicon
 Comprar PC
 Botar fundo na pagina do face
-
-Depois
-
-Fazer ads no google pra testar
