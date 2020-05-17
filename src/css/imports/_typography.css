@@ -163,6 +163,13 @@ sup {
 
 @media (max-width: 50em) {
   .script-font {
+    font-size: 24px;
+    line-height: 25px;
+  }
+}
+
+@media (max-width: 40em) {
+  .script-font {
     font-size: 17px;
     line-height: 25px;
   }
@@ -172,7 +179,7 @@ sup {
   font-size: var(--font-size);
 }
 
-@media (max-width: 50em) {
+@media (max-width: 40em) {
   .small  {
     font-size: 12px;
   }
