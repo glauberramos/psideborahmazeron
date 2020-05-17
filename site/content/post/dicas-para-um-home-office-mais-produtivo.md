@@ -5,6 +5,7 @@ description: >
   Muitas pessoas estão tendo a experiência de home office pela primeira vez
   durante esse período de quarenena, sendo preciso adaptar sua rotina em um
   espaço antes visto apenas como lar.
+image: /img/img-20200516-wa0014.jpg
 ---
 Muitas pessoas estão tendo a experiência de home office pela primeira vez durante esse período de quarenena, sendo preciso adaptar sua rotina em um espaço antes visto apenas como larPode ser uma vantagem trabalhar no conforto de casa, sem precisar realizar deslocamentos e enfrentar o trânsito, mas também um pouco desafiador.
 
