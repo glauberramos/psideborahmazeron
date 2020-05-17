@@ -172,10 +172,8 @@ sup {
   font-size: var(--font-size);
 }
 
-
-
 @media (max-width: 50em) {
   .small  {
-    font-size: 14px;
+    font-size: 12px;
   }
 }

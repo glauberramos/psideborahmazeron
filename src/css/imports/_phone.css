@@ -61,7 +61,20 @@
   bottom: 14px;
 }
 
+@media (max-width: 50em) {
+  .logo-image {
+    width: 60px;
+    top: -10px;
+  }
+}
+
 .logo-typo {
   position: relative;
   right: 25px;
+}
+
+@media (max-width: 50em) {
+  .logo-typo {
+    right: 5px;
+  }
 }
