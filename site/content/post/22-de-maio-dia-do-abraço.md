@@ -1,7 +1,7 @@
 ---
 title: 22 de Maio - Dia do Abraço
 date: 2020-05-22T23:36:00.000Z
-description: "Quem já aprendeu a abraçar e sorrir com os olhos? \U0001F499Quem você gostaria de abraçar hoje? \U0001F4ADQuem está precisando de um abraço? "
+description: "Quem já aprendeu a abraçar e sorrir com os olhos? \U0001F499\n\nQuem você gostaria de abraçar hoje? \U0001F4AD\n\nQuem está precisando de um abraço? "
 image: /img/20200522_175704_0000.png
 ---
 Quem já aprendeu a abraçar e sorrir com os olhos? 💙
