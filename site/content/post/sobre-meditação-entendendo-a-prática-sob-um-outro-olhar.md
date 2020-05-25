@@ -1,5 +1,5 @@
 ---
-title: 'Sobre meditação : Entendendo a prática sob um outro olhar'
+title: 'Sobre meditação: Entendendo a prática sob um outro olhar'
 date: 2020-05-25T21:26:24.954Z
 description: >
   ⁣⁣⁣A meditação vem sendo vista como uma potente técnica de relaxamento e
